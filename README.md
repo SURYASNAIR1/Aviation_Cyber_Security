@@ -18,6 +18,13 @@ This repository contains resources, tools, and documentation related to aviation
 - **Security Best Practices**: Guidelines and recommendations for enhancing cybersecurity in aviation operations.
 - **Regulatory Compliance**: Information on compliance with international cybersecurity standards and regulations.
 
+# Attacks Occured
+
+- **Databreach attack** --> In 2018, British Airways faced ransomeware attack thorugh a tool called WastedLocker. This tool will not steal any information rather it will encrypt the file and onces ransom is paid we can decrypt the files. Attacker gained access through a 3rd party cargo handler account who is working in Swiss airport. His account was not having multi factor authentication enabled. This affected the British Airways flight plans, leakage of Personal and financial info. of passenegers including name, address, CVV number etc. British Airways was fined 20 million pound. 
+
+ - **Ransomeware attack** -->On July 23, 2020
+a ransomware attack targeted a leading provider of aviation
+communication and navigation systems, Garmin
 ## Contributing
 
 We welcome contributions to enhance the aviation cyber security project. To contribute, please follow these steps:
